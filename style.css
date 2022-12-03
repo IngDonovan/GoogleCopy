@@ -89,4 +89,13 @@ html {
     margin-right: 1.3rem;
 }
 
+.in {
+    width: 44.3rem;
+    height: 3.4rem;
+    margin-top: -0.5rem;
+    background-color: transparent;
+    border: none;
+    font-size: 1.6rem;
+    
+}
 
