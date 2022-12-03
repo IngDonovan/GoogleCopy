@@ -87,6 +87,7 @@ html {
 
 .mpicsearch{
     margin-right: 1.3rem;
+
 }
 
 .in {
@@ -98,4 +99,20 @@ html {
     font-size: 1.6rem;
     
 }
+.mpicinput{
+    padding: 0 0.8rem;
+}
 
+.micro {
+    width: 2.4rem;
+    height: 2.4rem;
+}
+
+.mpicfot{
+    padding: 0 0.8rem;
+}
+
+.camara {
+    width: 2.4rem;
+    height: 2.4rem;
+}
