@@ -155,7 +155,7 @@ html {
     
     flex-direction: column;
     align-items: center;
-    height: 24.46rem;
+    height: 26.5rem;
     justify-content: end;
 }
 
@@ -186,6 +186,17 @@ html {
     
 }
 
-.foot1, .foot2, .foot3, .foot4, .foot5{
+.foot1, .foot2, .foot3, .foot4{
+    padding: 1.5rem;
+}
+
+.allfooter2{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+.foot5, .foot6, .foot7{
     padding: 1.5rem;
 }
